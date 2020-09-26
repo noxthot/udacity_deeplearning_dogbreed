@@ -3,3 +3,5 @@ lfw
 __MACOSX
 *.pt
 .ipynb_checkpoints
+dog_images
+own_images
